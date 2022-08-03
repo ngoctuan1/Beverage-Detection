@@ -1,3 +1,10 @@
+--------Get_Weight-----------
+1.weight when training:
+https://drive.google.com/drive/folders/1N7lDeFgHRT19u_G51j9Ao6f3cHuBhj9Z?usp=sharing
+2. traced_model.pt
+https://drive.google.com/file/d/1xKTTe1I8XQwGZi-ddRFVAYuaGfAUgCZj/view?usp=sharing
+------------------------------
+
 1. Training: yolov7_training.ipynb
 - Download Dataset from Robotflow: Đã download trong folder drinks-1
 - Install Enviroment: Pytorch + requirements.txt
